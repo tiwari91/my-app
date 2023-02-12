@@ -1,3 +1,15 @@
+.NoteDiv{
+  display:inline-block;
+}
+
+.Main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
 .App {
   text-align: center;
 }
